@@ -1,5 +1,6 @@
 ---
-title: "passover-2020"
+title: "Passover 2020"
+subtitle: "(Press arrow keys to navigate)"
 author: "Rick Gilmore"
 date: "2020-04-08"
 css: ioslides.css
