@@ -18,12 +18,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Chag Semeach!
 
-<https://psu.zoom.us/j/176165097?pwd=VjVKcGFNQnFXS3BEMVJvZzR6SG4vdz09>
+On a phone or tablet, open your camera app and scan this QR code:
 
 ```{r, fig.align='center'}
 library(qrcode)
 qrcode_gen('https://psu.zoom.us/j/176165097?pwd=VjVKcGFNQnFXS3BEMVJvZzR6SG4vdz09')
 ```
+
+---
+
+<https://psu.zoom.us/j/176165097?pwd=VjVKcGFNQnFXS3BEMVJvZzR6SG4vdz09>
 
 ## Audio call-in:
 
@@ -36,7 +40,7 @@ qrcode_gen('https://psu.zoom.us/j/176165097?pwd=VjVKcGFNQnFXS3BEMVJvZzR6SG4vdz09
 
 Meeting ID: 176 165 09
 
-Rick's cell 814-777-3298
+Rick's cell: 814-777-3298
 
 ---
 
@@ -46,3 +50,8 @@ Rick's cell 814-777-3298
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nTs7N1xDi4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Links to resources
+
+[Haggadah](pdf/Haggadah.pdf)
+
+[Song Lyrics](pdf/Song-Sheets.pdf)
